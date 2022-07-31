@@ -1,2 +1,2 @@
-# IMDB-Project
+# Movie-Project
  
